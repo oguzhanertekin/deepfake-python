@@ -1,6 +1,6 @@
 # DeepFake with Python  
 
-**(You can access DeepFake implementation codes with Google Colab Link)**
+*(You can access DeepFake implementation codes with Google Colab Link)*
 https://colab.research.google.com/drive/1pjCcEmo9nGqH3ggSXwy6XgWXUJht06Ls?usp=sharing
 
 ## What is Deepfake? How does it operate?
@@ -27,4 +27,5 @@ Deepfake detectors to identify them.
 In order to "learn" how to create fresh instances that closely resemble the actual thing, GANs are also
 frequently utilized as a popular technique for the production of DeepFake.
 
+![deepfake](https://www.gao.gov/assets/710/704754.png)
 
