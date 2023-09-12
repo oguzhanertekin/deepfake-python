@@ -1,6 +1,6 @@
 # DeepFake with Python  
 
-(You can access DeepFake implementation codes with Google Colab Link)
+** (You can access DeepFake implementation codes with Google Colab Link)
 https://colab.research.google.com/drive/1pjCcEmo9nGqH3ggSXwy6XgWXUJht06Ls?usp=sharing
 
 ## What is Deepfake? How does it operate?
