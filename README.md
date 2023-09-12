@@ -29,3 +29,48 @@ frequently utilized as a popular technique for the production of DeepFake.
 
 ![deepfake](https://www.gao.gov/assets/710/704754.png)
 
+## Advantages of Deepfake
+● Deepfake may be utilized as a creative medium to revive historical figures. As an illustration, a painting of the
+Mona Lisa may be utilized to create a computer-generated image of a talking Mona Lisa.
+● AI avatars may be created using Deepfake technology and utilized in training videos. Since lockdowns and
+health concerns have made video shootings with actual humans much more challenging to pull off, startups
+like London-based Synthesia have been drawing greater attention from the business world amid the COVID
+epidemic.
+● In order to test clothing or new haircuts before trying them on in person, Deepfake may be utilized to build
+individual avatars.
+● Deepfake can also be used for identity protection and anonymization in various fields like investigative news
+reporting, finance, etc.
+Disadvantages of Deepfake
+● With the use of modified celebrity videos, Deepfake may be utilized to distribute false information.
+● Deepfake may also be used to launch deceptive social media campaigns that influence public opinion and
+have unfavorable effects.
+● Politicians have also employed Deepfake videos. For instance, a Belgian political party broadcast a video of
+Donald Trump speaking and urging Belgium to leave the Paris climate accord in 2018. But the address was a
+deep fake; Trump never gave it. Deepfake has previously been used to produce deceptive films, and
+tech-savvy political gurus are preparing for a new wave of fake news that will incorporate this impressively
+realistic Deepfake.
+
+## Does Deepfake only consist of videos?
+Deepfake isn’t merely found in videos. A rapidly expanding field with a vast array of uses is Deepfake audio.
+With just a few hours (or, in some cases, minutes) of audio of the person whose voice is being cloned, a realistic
+audio Deepfake can now be created using deep learning algorithms. Once a model of a voice is created, that person
+can be made to say anything, as was the case last year when the fake audio of a CEO was used to commit fraud.
+
+## How to recognize Deepfake?
+As Deepfake spreads, society as a whole will likely need to acclimate to seeing Deepfake films in the same way
+that internet users have grown skilled at spotting other types of fake news.
+In order to identify and stop Deepfake technology from spreading, which might start a vicious cycle and perhaps do
+more harm, it frequently takes more advanced Deepfake technology to be developed, as is the case with cybersecurity.
+A few signs may be used to identify Deepfake:
+● Videos where the person never blinks, blinks too frequently, or blinks in an unnatural way are the
+consequence of the current deepfake's struggles to convincingly animate faces. But a fresh Deepfake that
+didn't have this issue was issued when researchers from the University of Albany published a report
+identifying the irregular blinking.
+● Keep an eye out for facial issues, skin or hair issues, and faces that look blurrier than the surroundings in
+which they are situated. the possible abnormally soft appearance of the focus.
+● Is the lighting unnatural-looking? The lighting of the clips that served as models for the false video is
+frequently kept by Deepfake algorithms, even when it is not a good match for the lighting in the target video.
+● If the video was fabricated but the original audio was not carefully modified, the audio could not seem to fit
+the person.
+
+![deepfake](https://www.gao.gov/assets/710/704755.png)
