@@ -23,3 +23,5 @@ Deepfake detectors to identify them.
 
 In order to "learn" how to create fresh instances that closely resemble the actual thing, GANs are also
 frequently utilized as a popular technique for the production of DeepFake.
+
+![image](https://github.com/oguzhanertekin/deepfake-python/assets/68961575/3e481287-1577-44b1-93c6-3b2c0c2ab1b2)
